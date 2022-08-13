@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>TextTranslation_Toffah</PackageId>
+    <Title>Text Translator</Title>
+    <Authors>Ato Toffah</Authors>
+    <Description>Class containing functionality for translating text.</Description>
+  </PropertyGroup>
+
+</Project>
